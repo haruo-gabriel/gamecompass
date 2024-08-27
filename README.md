@@ -3,7 +3,7 @@
 ## Autores
 Gabriel Haruo Hanai Takeuchi (@haruo-gabriel)
 
-.
+Lucas Aguiar Garcia (@Aguiaro)
 
 .
 
@@ -17,22 +17,15 @@ Pesquise informações sobre qualquer jogo de tabuleiro. Receba recomendações 
 ## Instalação
 .
 
-## Uso
-Veja exemplos de usos do website:
-
-### Criando uma conta no {NOME DO PROJETO}
-.
-
-### Adicionando jogos na sua lista de favoritos
-.
-
-### Pesquisando informações sobre um jogo
-.
-
-### Recebendo recomendações personalizadas
-.
-
-
+## Requisitos
+###   - O site recebe o nome de um jogo e retorna uma lista de Jogos recomendados com base no jogo de entrada.
+###   - Cada jogo deverá ter uma pagina com as devidas informações do mesmo.
+###   - Cada página de jogo também mostrará o preço em pelo menos 3 plataformas de venda online.
+###   - O site deverá ter um sistema de usuário.
+###   - O site deverá ter um sistema de pesquisa de jogos
+###   - O usuário poderá ter uma lista de jogos favoritos.
+###   - O usuário poderá receber recomendações personalizadas.
+###   - A interface deverá ser simples e intuitiva.
 ## Suporte
 .
 
