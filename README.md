@@ -8,7 +8,8 @@ Lucas Aguiar Garcia (@Aguiaro)
 
 Lucca Ciriac Vilhena Oliveira (@luccaciriac)
 
-.
+Rodrigo Dorneles Ferreira de Souza (@roddorneles)
+
 
 ## Introdução
 
