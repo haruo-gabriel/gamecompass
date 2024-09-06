@@ -5,13 +5,15 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "build":"npx tsc --project config/tsconfig.json",
+    "build": "npx tsc --project config/tsconfig.json",
     "start": "node dist/index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
     "node-fetch": "^3.0.0",
     "xml2js": "^0.4.23"
   },
